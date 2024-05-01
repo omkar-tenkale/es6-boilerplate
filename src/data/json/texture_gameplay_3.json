@@ -1,0 +1,646 @@
+{
+	"frames": [
+		{
+			"filename": "playerParachute_Happy - 11",
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 466,
+				"h": 384
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 6,
+				"y": 11,
+				"w": 466,
+				"h": 384
+			},
+			"sourceSize": {
+				"w": 474,
+				"h": 402
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Happy - 12",
+			"frame": {
+				"x": 469,
+				"y": 1,
+				"w": 467,
+				"h": 384
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 11,
+				"w": 467,
+				"h": 384
+			},
+			"sourceSize": {
+				"w": 474,
+				"h": 402
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Jump - 00",
+			"frame": {
+				"x": 1,
+				"y": 387,
+				"w": 187,
+				"h": 116
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 2,
+				"w": 187,
+				"h": 116
+			},
+			"sourceSize": {
+				"w": 195,
+				"h": 142
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Jump - 01",
+			"frame": {
+				"x": 190,
+				"y": 387,
+				"w": 188,
+				"h": 109
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 4,
+				"y": 3,
+				"w": 188,
+				"h": 109
+			},
+			"sourceSize": {
+				"w": 195,
+				"h": 142
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Jump - 02",
+			"frame": {
+				"x": 380,
+				"y": 387,
+				"w": 187,
+				"h": 113
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 4,
+				"y": 4,
+				"w": 187,
+				"h": 113
+			},
+			"sourceSize": {
+				"w": 195,
+				"h": 142
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Jump - 03",
+			"frame": {
+				"x": 569,
+				"y": 387,
+				"w": 186,
+				"h": 116
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 4,
+				"y": 5,
+				"w": 186,
+				"h": 116
+			},
+			"sourceSize": {
+				"w": 195,
+				"h": 142
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Jump - 04",
+			"frame": {
+				"x": 757,
+				"y": 387,
+				"w": 185,
+				"h": 120
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 7,
+				"w": 185,
+				"h": 120
+			},
+			"sourceSize": {
+				"w": 195,
+				"h": 142
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Jump - 05",
+			"frame": {
+				"x": 1,
+				"y": 509,
+				"w": 182,
+				"h": 121
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 6,
+				"y": 10,
+				"w": 182,
+				"h": 121
+			},
+			"sourceSize": {
+				"w": 195,
+				"h": 142
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Jump - 06",
+			"frame": {
+				"x": 185,
+				"y": 509,
+				"w": 184,
+				"h": 122
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 4,
+				"y": 7,
+				"w": 184,
+				"h": 122
+			},
+			"sourceSize": {
+				"w": 195,
+				"h": 142
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Jump - 07",
+			"frame": {
+				"x": 371,
+				"y": 509,
+				"w": 187,
+				"h": 113
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 4,
+				"y": 5,
+				"w": 187,
+				"h": 113
+			},
+			"sourceSize": {
+				"w": 195,
+				"h": 142
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Jump - 08",
+			"frame": {
+				"x": 560,
+				"y": 509,
+				"w": 187,
+				"h": 116
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 2,
+				"w": 187,
+				"h": 116
+			},
+			"sourceSize": {
+				"w": 195,
+				"h": 142
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Jump - 09",
+			"frame": {
+				"x": 749,
+				"y": 509,
+				"w": 184,
+				"h": 129
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 8,
+				"y": 0,
+				"w": 184,
+				"h": 129
+			},
+			"sourceSize": {
+				"w": 195,
+				"h": 142
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Jump - 10",
+			"frame": {
+				"x": 1,
+				"y": 640,
+				"w": 176,
+				"h": 137
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 15,
+				"y": 0,
+				"w": 176,
+				"h": 137
+			},
+			"sourceSize": {
+				"w": 195,
+				"h": 142
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Jump - 11",
+			"frame": {
+				"x": 179,
+				"y": 640,
+				"w": 180,
+				"h": 133
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 12,
+				"y": 0,
+				"w": 180,
+				"h": 133
+			},
+			"sourceSize": {
+				"w": 195,
+				"h": 142
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Jump - 12",
+			"frame": {
+				"x": 361,
+				"y": 640,
+				"w": 182,
+				"h": 129
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 10,
+				"y": 0,
+				"w": 182,
+				"h": 129
+			},
+			"sourceSize": {
+				"w": 195,
+				"h": 142
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Jump - 13",
+			"frame": {
+				"x": 545,
+				"y": 640,
+				"w": 184,
+				"h": 124
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 8,
+				"y": 1,
+				"w": 184,
+				"h": 124
+			},
+			"sourceSize": {
+				"w": 195,
+				"h": 142
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Jump - 14",
+			"frame": {
+				"x": 731,
+				"y": 640,
+				"w": 186,
+				"h": 118
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 6,
+				"y": 2,
+				"w": 186,
+				"h": 118
+			},
+			"sourceSize": {
+				"w": 195,
+				"h": 142
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Stand - 00",
+			"frame": {
+				"x": 1,
+				"y": 779,
+				"w": 126,
+				"h": 174
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 8,
+				"y": 2,
+				"w": 126,
+				"h": 174
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 176
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Stand - 01",
+			"frame": {
+				"x": 129,
+				"y": 779,
+				"w": 128,
+				"h": 174
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 7,
+				"y": 2,
+				"w": 128,
+				"h": 174
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 176
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Stand - 02",
+			"frame": {
+				"x": 259,
+				"y": 779,
+				"w": 128,
+				"h": 174
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 7,
+				"y": 2,
+				"w": 128,
+				"h": 174
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 176
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Stand - 03",
+			"frame": {
+				"x": 389,
+				"y": 779,
+				"w": 131,
+				"h": 175
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 1,
+				"w": 131,
+				"h": 175
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 176
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Stand - 04",
+			"frame": {
+				"x": 522,
+				"y": 779,
+				"w": 134,
+				"h": 175
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 1,
+				"w": 134,
+				"h": 175
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 176
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Stand - 05",
+			"frame": {
+				"x": 658,
+				"y": 779,
+				"w": 135,
+				"h": 176
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 0,
+				"w": 135,
+				"h": 176
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 176
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Stand - 06",
+			"frame": {
+				"x": 795,
+				"y": 779,
+				"w": 136,
+				"h": 176
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 0,
+				"w": 136,
+				"h": 176
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 176
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Stand - 07",
+			"frame": {
+				"x": 1,
+				"y": 957,
+				"w": 133,
+				"h": 175
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 4,
+				"y": 1,
+				"w": 133,
+				"h": 175
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 176
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "texture_gameplay_3.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1024,
+			"h": 2048
+		},
+		"scale": "1",
+		"related_multi_packs": [
+			"texture_gameplay_0.json",
+			"texture_gameplay_1.json",
+			"texture_gameplay_2.json"
+		],
+		"smartupdate": "$TexturePacker:SmartUpdate:7ac18abd88d4f5a3651272ea6ae949b3:931ab3254af7ca9a19461156064517da:7f37907198997bd9396f1cacf70d9bad$"
+	}
+}

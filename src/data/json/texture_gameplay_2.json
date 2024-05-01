@@ -1,0 +1,946 @@
+{
+	"frames": [
+		{
+			"filename": "panel_overlay",
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 2160,
+				"h": 2340
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 2160,
+				"h": 2340
+			},
+			"sourceSize": {
+				"w": 2160,
+				"h": 2340
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Broke - 00",
+			"frame": {
+				"x": 2163,
+				"y": 1,
+				"w": 455,
+				"h": 421
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 6,
+				"y": 9,
+				"w": 455,
+				"h": 421
+			},
+			"sourceSize": {
+				"w": 464,
+				"h": 437
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Broke - 01",
+			"frame": {
+				"x": 2620,
+				"y": 1,
+				"w": 455,
+				"h": 422
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 6,
+				"y": 9,
+				"w": 455,
+				"h": 422
+			},
+			"sourceSize": {
+				"w": 464,
+				"h": 437
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Broke - 02",
+			"frame": {
+				"x": 3077,
+				"y": 1,
+				"w": 454,
+				"h": 419
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 6,
+				"y": 9,
+				"w": 454,
+				"h": 419
+			},
+			"sourceSize": {
+				"w": 464,
+				"h": 437
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Broke - 03",
+			"frame": {
+				"x": 3533,
+				"y": 1,
+				"w": 455,
+				"h": 420
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 9,
+				"w": 455,
+				"h": 420
+			},
+			"sourceSize": {
+				"w": 464,
+				"h": 437
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Broke - 04",
+			"frame": {
+				"x": 1,
+				"y": 2343,
+				"w": 454,
+				"h": 424
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 9,
+				"w": 454,
+				"h": 424
+			},
+			"sourceSize": {
+				"w": 464,
+				"h": 437
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Broke - 05",
+			"frame": {
+				"x": 457,
+				"y": 2343,
+				"w": 454,
+				"h": 422
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 9,
+				"w": 454,
+				"h": 422
+			},
+			"sourceSize": {
+				"w": 464,
+				"h": 437
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Broke - 06",
+			"frame": {
+				"x": 913,
+				"y": 2343,
+				"w": 454,
+				"h": 417
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 6,
+				"y": 9,
+				"w": 454,
+				"h": 417
+			},
+			"sourceSize": {
+				"w": 464,
+				"h": 437
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Broke - 07",
+			"frame": {
+				"x": 1369,
+				"y": 2343,
+				"w": 455,
+				"h": 419
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 6,
+				"y": 9,
+				"w": 455,
+				"h": 419
+			},
+			"sourceSize": {
+				"w": 464,
+				"h": 437
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Broke - 08",
+			"frame": {
+				"x": 1826,
+				"y": 2343,
+				"w": 454,
+				"h": 422
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 7,
+				"y": 9,
+				"w": 454,
+				"h": 422
+			},
+			"sourceSize": {
+				"w": 464,
+				"h": 437
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Broke - 09",
+			"frame": {
+				"x": 2282,
+				"y": 2343,
+				"w": 454,
+				"h": 421
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 7,
+				"y": 9,
+				"w": 454,
+				"h": 421
+			},
+			"sourceSize": {
+				"w": 464,
+				"h": 437
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Glide - 00",
+			"frame": {
+				"x": 2738,
+				"y": 2343,
+				"w": 467,
+				"h": 386
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 6,
+				"y": 11,
+				"w": 467,
+				"h": 386
+			},
+			"sourceSize": {
+				"w": 475,
+				"h": 406
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Glide - 01",
+			"frame": {
+				"x": 3207,
+				"y": 2343,
+				"w": 466,
+				"h": 384
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 6,
+				"y": 12,
+				"w": 466,
+				"h": 384
+			},
+			"sourceSize": {
+				"w": 475,
+				"h": 406
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Glide - 02",
+			"frame": {
+				"x": 1,
+				"y": 2769,
+				"w": 467,
+				"h": 384
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 11,
+				"w": 467,
+				"h": 384
+			},
+			"sourceSize": {
+				"w": 475,
+				"h": 406
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Glide - 03",
+			"frame": {
+				"x": 470,
+				"y": 2769,
+				"w": 467,
+				"h": 386
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 11,
+				"w": 467,
+				"h": 386
+			},
+			"sourceSize": {
+				"w": 475,
+				"h": 406
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Glide - 04",
+			"frame": {
+				"x": 939,
+				"y": 2769,
+				"w": 466,
+				"h": 388
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 11,
+				"w": 466,
+				"h": 388
+			},
+			"sourceSize": {
+				"w": 475,
+				"h": 406
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Glide - 05",
+			"frame": {
+				"x": 1407,
+				"y": 2769,
+				"w": 467,
+				"h": 390
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 4,
+				"y": 11,
+				"w": 467,
+				"h": 390
+			},
+			"sourceSize": {
+				"w": 475,
+				"h": 406
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Glide - 06",
+			"frame": {
+				"x": 1876,
+				"y": 2769,
+				"w": 467,
+				"h": 386
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 11,
+				"w": 467,
+				"h": 386
+			},
+			"sourceSize": {
+				"w": 475,
+				"h": 406
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Glide - 07",
+			"frame": {
+				"x": 2345,
+				"y": 2769,
+				"w": 467,
+				"h": 381
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 11,
+				"w": 467,
+				"h": 381
+			},
+			"sourceSize": {
+				"w": 475,
+				"h": 406
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Glide - 08",
+			"frame": {
+				"x": 2814,
+				"y": 2769,
+				"w": 466,
+				"h": 382
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 6,
+				"y": 12,
+				"w": 466,
+				"h": 382
+			},
+			"sourceSize": {
+				"w": 475,
+				"h": 406
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Glide - 09",
+			"frame": {
+				"x": 3282,
+				"y": 2769,
+				"w": 467,
+				"h": 383
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 6,
+				"y": 12,
+				"w": 467,
+				"h": 383
+			},
+			"sourceSize": {
+				"w": 475,
+				"h": 406
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Glide - 10",
+			"frame": {
+				"x": 1,
+				"y": 3161,
+				"w": 467,
+				"h": 385
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 7,
+				"y": 12,
+				"w": 467,
+				"h": 385
+			},
+			"sourceSize": {
+				"w": 475,
+				"h": 406
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Glide - 11",
+			"frame": {
+				"x": 470,
+				"y": 3161,
+				"w": 466,
+				"h": 385
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 7,
+				"y": 12,
+				"w": 466,
+				"h": 385
+			},
+			"sourceSize": {
+				"w": 475,
+				"h": 406
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Glide - 12",
+			"frame": {
+				"x": 938,
+				"y": 3161,
+				"w": 466,
+				"h": 385
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 7,
+				"y": 12,
+				"w": 466,
+				"h": 385
+			},
+			"sourceSize": {
+				"w": 475,
+				"h": 406
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Glide - 13",
+			"frame": {
+				"x": 1406,
+				"y": 3161,
+				"w": 466,
+				"h": 385
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 7,
+				"y": 12,
+				"w": 466,
+				"h": 385
+			},
+			"sourceSize": {
+				"w": 475,
+				"h": 406
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Glide - 14",
+			"frame": {
+				"x": 1874,
+				"y": 3161,
+				"w": 467,
+				"h": 385
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 6,
+				"y": 12,
+				"w": 467,
+				"h": 385
+			},
+			"sourceSize": {
+				"w": 475,
+				"h": 406
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Happy - 00",
+			"frame": {
+				"x": 2343,
+				"y": 3161,
+				"w": 467,
+				"h": 386
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 10,
+				"w": 467,
+				"h": 386
+			},
+			"sourceSize": {
+				"w": 474,
+				"h": 402
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Happy - 01",
+			"frame": {
+				"x": 2812,
+				"y": 3161,
+				"w": 466,
+				"h": 384
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 10,
+				"w": 466,
+				"h": 384
+			},
+			"sourceSize": {
+				"w": 474,
+				"h": 402
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Happy - 02",
+			"frame": {
+				"x": 3280,
+				"y": 3161,
+				"w": 467,
+				"h": 383
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 4,
+				"y": 10,
+				"w": 467,
+				"h": 383
+			},
+			"sourceSize": {
+				"w": 474,
+				"h": 402
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Happy - 03",
+			"frame": {
+				"x": 1,
+				"y": 3549,
+				"w": 467,
+				"h": 385
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 4,
+				"y": 10,
+				"w": 467,
+				"h": 385
+			},
+			"sourceSize": {
+				"w": 474,
+				"h": 402
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Happy - 04",
+			"frame": {
+				"x": 470,
+				"y": 3549,
+				"w": 468,
+				"h": 388
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 10,
+				"w": 468,
+				"h": 388
+			},
+			"sourceSize": {
+				"w": 474,
+				"h": 402
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Happy - 05",
+			"frame": {
+				"x": 940,
+				"y": 3549,
+				"w": 467,
+				"h": 387
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 10,
+				"w": 467,
+				"h": 387
+			},
+			"sourceSize": {
+				"w": 474,
+				"h": 402
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Happy - 06",
+			"frame": {
+				"x": 1409,
+				"y": 3549,
+				"w": 467,
+				"h": 382
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 4,
+				"y": 10,
+				"w": 467,
+				"h": 382
+			},
+			"sourceSize": {
+				"w": 474,
+				"h": 402
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Happy - 07",
+			"frame": {
+				"x": 1878,
+				"y": 3549,
+				"w": 467,
+				"h": 380
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 11,
+				"w": 467,
+				"h": 380
+			},
+			"sourceSize": {
+				"w": 474,
+				"h": 402
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Happy - 08",
+			"frame": {
+				"x": 2347,
+				"y": 3549,
+				"w": 467,
+				"h": 382
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 11,
+				"w": 467,
+				"h": 382
+			},
+			"sourceSize": {
+				"w": 474,
+				"h": 402
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Happy - 09",
+			"frame": {
+				"x": 2816,
+				"y": 3549,
+				"w": 466,
+				"h": 384
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 7,
+				"y": 11,
+				"w": 466,
+				"h": 384
+			},
+			"sourceSize": {
+				"w": 474,
+				"h": 402
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "playerParachute_Happy - 10",
+			"frame": {
+				"x": 3284,
+				"y": 3549,
+				"w": 466,
+				"h": 384
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 6,
+				"y": 11,
+				"w": 466,
+				"h": 384
+			},
+			"sourceSize": {
+				"w": 474,
+				"h": 402
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "texture_gameplay_2.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 4096,
+			"h": 4096
+		},
+		"scale": "1",
+		"related_multi_packs": [
+			"texture_gameplay_0.json",
+			"texture_gameplay_1.json",
+			"texture_gameplay_3.json"
+		],
+		"smartupdate": "$TexturePacker:SmartUpdate:7ac18abd88d4f5a3651272ea6ae949b3:931ab3254af7ca9a19461156064517da:7f37907198997bd9396f1cacf70d9bad$"
+	}
+}

@@ -1,0 +1,621 @@
+{
+	"frames": [
+		{
+			"filename": "awan - 00",
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 489,
+				"h": 235
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 30,
+				"y": 0,
+				"w": 489,
+				"h": 235
+			},
+			"sourceSize": {
+				"w": 528,
+				"h": 247
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "awan - 01",
+			"frame": {
+				"x": 492,
+				"y": 1,
+				"w": 583,
+				"h": 191
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 18,
+				"y": 0,
+				"w": 583,
+				"h": 191
+			},
+			"sourceSize": {
+				"w": 608,
+				"h": 191
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "awan - 02",
+			"frame": {
+				"x": 1077,
+				"y": 1,
+				"w": 447,
+				"h": 349
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 447,
+				"h": 349
+			},
+			"sourceSize": {
+				"w": 461,
+				"h": 357
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "CoinAnimate - 00",
+			"frame": {
+				"x": 1526,
+				"y": 1,
+				"w": 20,
+				"h": 84
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 93,
+				"y": 60,
+				"w": 20,
+				"h": 84
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "CoinAnimate - 01",
+			"frame": {
+				"x": 1548,
+				"y": 1,
+				"w": 43,
+				"h": 84
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 81,
+				"y": 60,
+				"w": 43,
+				"h": 84
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "CoinAnimate - 02",
+			"frame": {
+				"x": 1548,
+				"y": 1,
+				"w": 43,
+				"h": 84
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 81,
+				"y": 60,
+				"w": 43,
+				"h": 84
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "CoinAnimate - 03",
+			"frame": {
+				"x": 1593,
+				"y": 1,
+				"w": 64,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 71,
+				"y": 59,
+				"w": 64,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "CoinAnimate - 04",
+			"frame": {
+				"x": 1593,
+				"y": 1,
+				"w": 64,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 71,
+				"y": 59,
+				"w": 64,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "CoinAnimate - 05",
+			"frame": {
+				"x": 1659,
+				"y": 1,
+				"w": 81,
+				"h": 84
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 62,
+				"y": 60,
+				"w": 81,
+				"h": 84
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "CoinAnimate - 06",
+			"frame": {
+				"x": 1659,
+				"y": 1,
+				"w": 81,
+				"h": 84
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 62,
+				"y": 60,
+				"w": 81,
+				"h": 84
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "CoinAnimate - 07",
+			"frame": {
+				"x": 1742,
+				"y": 1,
+				"w": 87,
+				"h": 84
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 59,
+				"y": 60,
+				"w": 87,
+				"h": 84
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "CoinAnimate - 08",
+			"frame": {
+				"x": 1742,
+				"y": 1,
+				"w": 87,
+				"h": 84
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 59,
+				"y": 60,
+				"w": 87,
+				"h": 84
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "CoinAnimate - 09",
+			"frame": {
+				"x": 1831,
+				"y": 1,
+				"w": 85,
+				"h": 84
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 61,
+				"y": 60,
+				"w": 85,
+				"h": 84
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "CoinAnimate - 10",
+			"frame": {
+				"x": 1831,
+				"y": 1,
+				"w": 85,
+				"h": 84
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 61,
+				"y": 60,
+				"w": 85,
+				"h": 84
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "CoinAnimate - 11",
+			"frame": {
+				"x": 1918,
+				"y": 1,
+				"w": 87,
+				"h": 84
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 59,
+				"y": 60,
+				"w": 87,
+				"h": 84
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "CoinAnimate - 12",
+			"frame": {
+				"x": 1918,
+				"y": 1,
+				"w": 87,
+				"h": 84
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 59,
+				"y": 60,
+				"w": 87,
+				"h": 84
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "CoinAnimate - 13",
+			"frame": {
+				"x": 2007,
+				"y": 1,
+				"w": 82,
+				"h": 84
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 62,
+				"y": 60,
+				"w": 82,
+				"h": 84
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "CoinAnimate - 14",
+			"frame": {
+				"x": 2007,
+				"y": 1,
+				"w": 82,
+				"h": 84
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 62,
+				"y": 60,
+				"w": 82,
+				"h": 84
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "CoinAnimate - 15",
+			"frame": {
+				"x": 2091,
+				"y": 1,
+				"w": 64,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 71,
+				"y": 59,
+				"w": 64,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "gameplay_background",
+			"frame": {
+				"x": 1,
+				"y": 352,
+				"w": 2160,
+				"h": 2340
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 2160,
+				"h": 2340
+			},
+			"sourceSize": {
+				"w": 2160,
+				"h": 2340
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "gameplay_landing",
+			"frame": {
+				"x": 1,
+				"y": 2694,
+				"w": 2160,
+				"h": 1367
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1513,
+				"w": 2160,
+				"h": 1367
+			},
+			"sourceSize": {
+				"w": 2160,
+				"h": 2880
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "gameplay_landingTarget",
+			"frame": {
+				"x": 2163,
+				"y": 2694,
+				"w": 790,
+				"h": 186
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 52,
+				"y": 57,
+				"w": 790,
+				"h": 186
+			},
+			"sourceSize": {
+				"w": 898,
+				"h": 334
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "gameplay_pause",
+			"frame": {
+				"x": 2955,
+				"y": 2694,
+				"w": 131,
+				"h": 130
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 1,
+				"y": 1,
+				"w": 131,
+				"h": 130
+			},
+			"sourceSize": {
+				"w": 133,
+				"h": 132
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "gameplay_pausedButton",
+			"frame": {
+				"x": 3088,
+				"y": 2694,
+				"w": 603,
+				"h": 294
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 19,
+				"y": 38,
+				"w": 603,
+				"h": 294
+			},
+			"sourceSize": {
+				"w": 635,
+				"h": 346
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "texture_gameplay_0.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 4096,
+			"h": 4096
+		},
+		"scale": "1",
+		"related_multi_packs": [
+			"texture_gameplay_1.json",
+			"texture_gameplay_2.json",
+			"texture_gameplay_3.json"
+		],
+		"smartupdate": "$TexturePacker:SmartUpdate:7ac18abd88d4f5a3651272ea6ae949b3:931ab3254af7ca9a19461156064517da:7f37907198997bd9396f1cacf70d9bad$"
+	}
+}

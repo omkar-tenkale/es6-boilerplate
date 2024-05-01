@@ -1,0 +1,14 @@
+{
+	"type": "map",
+	"height": 30,
+	"width": 20,
+	"tilewidth": 32,
+	"tileheight": 32,
+	"infinite": false,
+	"nextobjectid": 1,
+	"orientation": "orthogonal",
+	"renderorder": "right-down",
+	"editor": "melon-editor",
+	"tilesets": [],
+	"layers": []
+}

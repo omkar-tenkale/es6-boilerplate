@@ -1,0 +1,1796 @@
+{
+	"frames": [
+		{
+			"filename": "gameplay_pausedMainmenu",
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 603,
+				"h": 223
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 19,
+				"y": 15,
+				"w": 603,
+				"h": 223
+			},
+			"sourceSize": {
+				"w": 635,
+				"h": 252
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "gameplay_pausedRestart",
+			"frame": {
+				"x": 606,
+				"y": 1,
+				"w": 603,
+				"h": 223
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 19,
+				"y": 15,
+				"w": 603,
+				"h": 223
+			},
+			"sourceSize": {
+				"w": 635,
+				"h": 252
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "gameplay_score",
+			"frame": {
+				"x": 1211,
+				"y": 1,
+				"w": 503,
+				"h": 96
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 16,
+				"y": 18,
+				"w": 503,
+				"h": 96
+			},
+			"sourceSize": {
+				"w": 540,
+				"h": 132
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "gameplay_tutorial 0",
+			"frame": {
+				"x": 1,
+				"y": 226,
+				"w": 884,
+				"h": 845
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 30,
+				"y": 194,
+				"w": 884,
+				"h": 845
+			},
+			"sourceSize": {
+				"w": 936,
+				"h": 1326
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "gameplay_tutorial 1",
+			"frame": {
+				"x": 887,
+				"y": 226,
+				"w": 884,
+				"h": 845
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 30,
+				"y": 194,
+				"w": 884,
+				"h": 845
+			},
+			"sourceSize": {
+				"w": 936,
+				"h": 1326
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacle_toucan - 00",
+			"frame": {
+				"x": 1,
+				"y": 1073,
+				"w": 314,
+				"h": 139
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 79,
+				"w": 314,
+				"h": 139
+			},
+			"sourceSize": {
+				"w": 317,
+				"h": 321
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacle_toucan - 01",
+			"frame": {
+				"x": 317,
+				"y": 1073,
+				"w": 300,
+				"h": 154
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 4,
+				"y": 63,
+				"w": 300,
+				"h": 154
+			},
+			"sourceSize": {
+				"w": 317,
+				"h": 321
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacle_toucan - 02",
+			"frame": {
+				"x": 619,
+				"y": 1073,
+				"w": 295,
+				"h": 172
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 4,
+				"y": 46,
+				"w": 295,
+				"h": 172
+			},
+			"sourceSize": {
+				"w": 317,
+				"h": 321
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacle_toucan - 03",
+			"frame": {
+				"x": 916,
+				"y": 1073,
+				"w": 294,
+				"h": 188
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 4,
+				"y": 30,
+				"w": 294,
+				"h": 188
+			},
+			"sourceSize": {
+				"w": 317,
+				"h": 321
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacle_toucan - 04",
+			"frame": {
+				"x": 1212,
+				"y": 1073,
+				"w": 294,
+				"h": 204
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 4,
+				"y": 14,
+				"w": 294,
+				"h": 204
+			},
+			"sourceSize": {
+				"w": 317,
+				"h": 321
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacle_toucan - 05",
+			"frame": {
+				"x": 1508,
+				"y": 1073,
+				"w": 293,
+				"h": 219
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 0,
+				"w": 293,
+				"h": 219
+			},
+			"sourceSize": {
+				"w": 317,
+				"h": 321
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacle_toucan - 06",
+			"frame": {
+				"x": 1,
+				"y": 1294,
+				"w": 294,
+				"h": 163
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 4,
+				"y": 55,
+				"w": 294,
+				"h": 163
+			},
+			"sourceSize": {
+				"w": 317,
+				"h": 321
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacle_toucan - 07",
+			"frame": {
+				"x": 297,
+				"y": 1294,
+				"w": 296,
+				"h": 103
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 118,
+				"w": 296,
+				"h": 103
+			},
+			"sourceSize": {
+				"w": 317,
+				"h": 321
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacle_toucan - 08",
+			"frame": {
+				"x": 595,
+				"y": 1294,
+				"w": 296,
+				"h": 135
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 115,
+				"w": 296,
+				"h": 135
+			},
+			"sourceSize": {
+				"w": 317,
+				"h": 321
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacle_toucan - 09",
+			"frame": {
+				"x": 893,
+				"y": 1294,
+				"w": 297,
+				"h": 183
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 111,
+				"w": 297,
+				"h": 183
+			},
+			"sourceSize": {
+				"w": 317,
+				"h": 321
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacle_toucan - 10",
+			"frame": {
+				"x": 1192,
+				"y": 1294,
+				"w": 298,
+				"h": 207
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 108,
+				"w": 298,
+				"h": 207
+			},
+			"sourceSize": {
+				"w": 317,
+				"h": 321
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacle_toucan - 11",
+			"frame": {
+				"x": 1492,
+				"y": 1294,
+				"w": 297,
+				"h": 211
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 110,
+				"w": 297,
+				"h": 211
+			},
+			"sourceSize": {
+				"w": 317,
+				"h": 321
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacle_toucan - 12",
+			"frame": {
+				"x": 1,
+				"y": 1507,
+				"w": 297,
+				"h": 199
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 112,
+				"w": 297,
+				"h": 199
+			},
+			"sourceSize": {
+				"w": 317,
+				"h": 321
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacle_toucan - 13",
+			"frame": {
+				"x": 300,
+				"y": 1507,
+				"w": 296,
+				"h": 170
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 113,
+				"w": 296,
+				"h": 170
+			},
+			"sourceSize": {
+				"w": 317,
+				"h": 321
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacle_toucan - 14",
+			"frame": {
+				"x": 598,
+				"y": 1507,
+				"w": 296,
+				"h": 136
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 115,
+				"w": 296,
+				"h": 136
+			},
+			"sourceSize": {
+				"w": 317,
+				"h": 321
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_blackBird - 00",
+			"frame": {
+				"x": 896,
+				"y": 1507,
+				"w": 283,
+				"h": 147
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 10,
+				"y": 104,
+				"w": 283,
+				"h": 147
+			},
+			"sourceSize": {
+				"w": 293,
+				"h": 362
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_blackBird - 01",
+			"frame": {
+				"x": 1181,
+				"y": 1507,
+				"w": 284,
+				"h": 144
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 9,
+				"y": 107,
+				"w": 284,
+				"h": 144
+			},
+			"sourceSize": {
+				"w": 293,
+				"h": 362
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_blackBird - 02",
+			"frame": {
+				"x": 1467,
+				"y": 1507,
+				"w": 283,
+				"h": 170
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 8,
+				"y": 82,
+				"w": 283,
+				"h": 170
+			},
+			"sourceSize": {
+				"w": 293,
+				"h": 362
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_blackBird - 03",
+			"frame": {
+				"x": 1752,
+				"y": 1507,
+				"w": 280,
+				"h": 196
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 7,
+				"y": 56,
+				"w": 280,
+				"h": 196
+			},
+			"sourceSize": {
+				"w": 293,
+				"h": 362
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_blackBird - 04",
+			"frame": {
+				"x": 1,
+				"y": 1708,
+				"w": 272,
+				"h": 222
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 7,
+				"y": 31,
+				"w": 272,
+				"h": 222
+			},
+			"sourceSize": {
+				"w": 293,
+				"h": 362
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_blackBird - 05",
+			"frame": {
+				"x": 275,
+				"y": 1708,
+				"w": 265,
+				"h": 255
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 7,
+				"y": 0,
+				"w": 265,
+				"h": 255
+			},
+			"sourceSize": {
+				"w": 293,
+				"h": 362
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_blackBird - 06",
+			"frame": {
+				"x": 542,
+				"y": 1708,
+				"w": 269,
+				"h": 205
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 7,
+				"y": 48,
+				"w": 269,
+				"h": 205
+			},
+			"sourceSize": {
+				"w": 293,
+				"h": 362
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_blackBird - 07",
+			"frame": {
+				"x": 813,
+				"y": 1708,
+				"w": 266,
+				"h": 145
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 8,
+				"y": 114,
+				"w": 266,
+				"h": 145
+			},
+			"sourceSize": {
+				"w": 293,
+				"h": 362
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_blackBird - 08",
+			"frame": {
+				"x": 1081,
+				"y": 1708,
+				"w": 267,
+				"h": 212
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 9,
+				"y": 109,
+				"w": 267,
+				"h": 212
+			},
+			"sourceSize": {
+				"w": 293,
+				"h": 362
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_blackBird - 09",
+			"frame": {
+				"x": 1350,
+				"y": 1708,
+				"w": 267,
+				"h": 253
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 10,
+				"y": 105,
+				"w": 267,
+				"h": 253
+			},
+			"sourceSize": {
+				"w": 293,
+				"h": 362
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_blackBird - 10",
+			"frame": {
+				"x": 1619,
+				"y": 1708,
+				"w": 266,
+				"h": 262
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 12,
+				"y": 100,
+				"w": 266,
+				"h": 262
+			},
+			"sourceSize": {
+				"w": 293,
+				"h": 362
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_blackBird - 11",
+			"frame": {
+				"x": 1,
+				"y": 1972,
+				"w": 265,
+				"h": 256
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 13,
+				"y": 99,
+				"w": 265,
+				"h": 256
+			},
+			"sourceSize": {
+				"w": 293,
+				"h": 362
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_blackBird - 12",
+			"frame": {
+				"x": 268,
+				"y": 1972,
+				"w": 266,
+				"h": 237
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 12,
+				"y": 100,
+				"w": 266,
+				"h": 237
+			},
+			"sourceSize": {
+				"w": 293,
+				"h": 362
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_blackBird - 13",
+			"frame": {
+				"x": 536,
+				"y": 1972,
+				"w": 265,
+				"h": 207
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 12,
+				"y": 102,
+				"w": 265,
+				"h": 207
+			},
+			"sourceSize": {
+				"w": 293,
+				"h": 362
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_blackBird - 14",
+			"frame": {
+				"x": 803,
+				"y": 1972,
+				"w": 266,
+				"h": 170
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 11,
+				"y": 103,
+				"w": 266,
+				"h": 170
+			},
+			"sourceSize": {
+				"w": 293,
+				"h": 362
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_brownBird - 00",
+			"frame": {
+				"x": 1071,
+				"y": 1972,
+				"w": 280,
+				"h": 150
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 12,
+				"y": 107,
+				"w": 280,
+				"h": 150
+			},
+			"sourceSize": {
+				"w": 292,
+				"h": 368
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_brownBird - 01",
+			"frame": {
+				"x": 1353,
+				"y": 1972,
+				"w": 281,
+				"h": 147
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 10,
+				"y": 110,
+				"w": 281,
+				"h": 147
+			},
+			"sourceSize": {
+				"w": 292,
+				"h": 368
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_brownBird - 02",
+			"frame": {
+				"x": 1636,
+				"y": 1972,
+				"w": 274,
+				"h": 170
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 8,
+				"y": 88,
+				"w": 274,
+				"h": 170
+			},
+			"sourceSize": {
+				"w": 292,
+				"h": 368
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_brownBird - 03",
+			"frame": {
+				"x": 1,
+				"y": 2230,
+				"w": 260,
+				"h": 201
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 7,
+				"y": 59,
+				"w": 260,
+				"h": 201
+			},
+			"sourceSize": {
+				"w": 292,
+				"h": 368
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_brownBird - 04",
+			"frame": {
+				"x": 263,
+				"y": 2230,
+				"w": 241,
+				"h": 229
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 31,
+				"w": 241,
+				"h": 229
+			},
+			"sourceSize": {
+				"w": 292,
+				"h": 368
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_brownBird - 05",
+			"frame": {
+				"x": 506,
+				"y": 2230,
+				"w": 222,
+				"h": 262
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 4,
+				"y": 0,
+				"w": 222,
+				"h": 262
+			},
+			"sourceSize": {
+				"w": 292,
+				"h": 368
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_brownBird - 06",
+			"frame": {
+				"x": 730,
+				"y": 2230,
+				"w": 240,
+				"h": 197
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 6,
+				"y": 63,
+				"w": 240,
+				"h": 197
+			},
+			"sourceSize": {
+				"w": 292,
+				"h": 368
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_brownBird - 07",
+			"frame": {
+				"x": 972,
+				"y": 2230,
+				"w": 219,
+				"h": 156
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 9,
+				"y": 112,
+				"w": 219,
+				"h": 156
+			},
+			"sourceSize": {
+				"w": 292,
+				"h": 368
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_brownBird - 08",
+			"frame": {
+				"x": 1193,
+				"y": 2230,
+				"w": 216,
+				"h": 205
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 12,
+				"y": 107,
+				"w": 216,
+				"h": 205
+			},
+			"sourceSize": {
+				"w": 292,
+				"h": 368
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_brownBird - 09",
+			"frame": {
+				"x": 1411,
+				"y": 2230,
+				"w": 212,
+				"h": 254
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 16,
+				"y": 102,
+				"w": 212,
+				"h": 254
+			},
+			"sourceSize": {
+				"w": 292,
+				"h": 368
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_brownBird - 10",
+			"frame": {
+				"x": 1625,
+				"y": 2230,
+				"w": 208,
+				"h": 270
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 20,
+				"y": 98,
+				"w": 208,
+				"h": 270
+			},
+			"sourceSize": {
+				"w": 292,
+				"h": 368
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_brownBird - 11",
+			"frame": {
+				"x": 1835,
+				"y": 2230,
+				"w": 207,
+				"h": 264
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 21,
+				"y": 97,
+				"w": 207,
+				"h": 264
+			},
+			"sourceSize": {
+				"w": 292,
+				"h": 368
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_brownBird - 12",
+			"frame": {
+				"x": 1,
+				"y": 2502,
+				"w": 210,
+				"h": 243
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 18,
+				"y": 99,
+				"w": 210,
+				"h": 243
+			},
+			"sourceSize": {
+				"w": 292,
+				"h": 368
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_brownBird - 13",
+			"frame": {
+				"x": 213,
+				"y": 2502,
+				"w": 212,
+				"h": 215
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 16,
+				"y": 102,
+				"w": 212,
+				"h": 215
+			},
+			"sourceSize": {
+				"w": 292,
+				"h": 368
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_brownBird - 14",
+			"frame": {
+				"x": 427,
+				"y": 2502,
+				"w": 214,
+				"h": 183
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 14,
+				"y": 104,
+				"w": 214,
+				"h": 183
+			},
+			"sourceSize": {
+				"w": 292,
+				"h": 368
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_heal",
+			"frame": {
+				"x": 643,
+				"y": 2502,
+				"w": 115,
+				"h": 115
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 18,
+				"y": 21,
+				"w": 115,
+				"h": 115
+			},
+			"sourceSize": {
+				"w": 154,
+				"h": 154
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_layangan",
+			"frame": {
+				"x": 760,
+				"y": 2502,
+				"w": 190,
+				"h": 240
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 190,
+				"h": 240
+			},
+			"sourceSize": {
+				"w": 190,
+				"h": 240
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_unicorn - 00",
+			"frame": {
+				"x": 952,
+				"y": 2502,
+				"w": 199,
+				"h": 222
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 109,
+				"y": 60,
+				"w": 199,
+				"h": 222
+			},
+			"sourceSize": {
+				"w": 437,
+				"h": 328
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_unicorn - 01",
+			"frame": {
+				"x": 1153,
+				"y": 2502,
+				"w": 201,
+				"h": 208
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 110,
+				"y": 62,
+				"w": 201,
+				"h": 208
+			},
+			"sourceSize": {
+				"w": 437,
+				"h": 328
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_unicorn - 02",
+			"frame": {
+				"x": 1356,
+				"y": 2502,
+				"w": 203,
+				"h": 207
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 113,
+				"y": 60,
+				"w": 203,
+				"h": 207
+			},
+			"sourceSize": {
+				"w": 437,
+				"h": 328
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_unicorn - 03",
+			"frame": {
+				"x": 1561,
+				"y": 2502,
+				"w": 205,
+				"h": 201
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 115,
+				"y": 60,
+				"w": 205,
+				"h": 201
+			},
+			"sourceSize": {
+				"w": 437,
+				"h": 328
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_unicorn - 04",
+			"frame": {
+				"x": 1768,
+				"y": 2502,
+				"w": 201,
+				"h": 202
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 115,
+				"y": 60,
+				"w": 201,
+				"h": 202
+			},
+			"sourceSize": {
+				"w": 437,
+				"h": 328
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_unicorn - 05",
+			"frame": {
+				"x": 1,
+				"y": 2747,
+				"w": 194,
+				"h": 211
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 117,
+				"y": 58,
+				"w": 194,
+				"h": 211
+			},
+			"sourceSize": {
+				"w": 437,
+				"h": 328
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_unicorn - 06",
+			"frame": {
+				"x": 197,
+				"y": 2747,
+				"w": 192,
+				"h": 217
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 115,
+				"y": 60,
+				"w": 192,
+				"h": 217
+			},
+			"sourceSize": {
+				"w": 437,
+				"h": 328
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_unicorn - 07",
+			"frame": {
+				"x": 391,
+				"y": 2747,
+				"w": 195,
+				"h": 219
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 112,
+				"y": 60,
+				"w": 195,
+				"h": 219
+			},
+			"sourceSize": {
+				"w": 437,
+				"h": 328
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_unicorn - 08",
+			"frame": {
+				"x": 588,
+				"y": 2747,
+				"w": 195,
+				"h": 214
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 112,
+				"y": 60,
+				"w": 195,
+				"h": 214
+			},
+			"sourceSize": {
+				"w": 437,
+				"h": 328
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_unicorn - 09",
+			"frame": {
+				"x": 785,
+				"y": 2747,
+				"w": 199,
+				"h": 206
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 110,
+				"y": 62,
+				"w": 199,
+				"h": 206
+			},
+			"sourceSize": {
+				"w": 437,
+				"h": 328
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_unicorn - 10",
+			"frame": {
+				"x": 986,
+				"y": 2747,
+				"w": 199,
+				"h": 207
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 110,
+				"y": 62,
+				"w": 199,
+				"h": 207
+			},
+			"sourceSize": {
+				"w": 437,
+				"h": 328
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_unicorn - 11",
+			"frame": {
+				"x": 1187,
+				"y": 2747,
+				"w": 199,
+				"h": 207
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 110,
+				"y": 62,
+				"w": 199,
+				"h": 207
+			},
+			"sourceSize": {
+				"w": 437,
+				"h": 328
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_unicorn - 12",
+			"frame": {
+				"x": 1187,
+				"y": 2747,
+				"w": 199,
+				"h": 207
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 110,
+				"y": 62,
+				"w": 199,
+				"h": 207
+			},
+			"sourceSize": {
+				"w": 437,
+				"h": 328
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_unicorn - 13",
+			"frame": {
+				"x": 1187,
+				"y": 2747,
+				"w": 199,
+				"h": 207
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 110,
+				"y": 62,
+				"w": 199,
+				"h": 207
+			},
+			"sourceSize": {
+				"w": 437,
+				"h": 328
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "obstacles_unicorn - 14",
+			"frame": {
+				"x": 1187,
+				"y": 2747,
+				"w": 199,
+				"h": 207
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 110,
+				"y": 62,
+				"w": 199,
+				"h": 207
+			},
+			"sourceSize": {
+				"w": 437,
+				"h": 328
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "panel_adsError",
+			"frame": {
+				"x": 1388,
+				"y": 2747,
+				"w": 591,
+				"h": 291
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 591,
+				"h": 291
+			},
+			"sourceSize": {
+				"w": 591,
+				"h": 291
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "panel_BtnContinue",
+			"frame": {
+				"x": 1,
+				"y": 3040,
+				"w": 403,
+				"h": 150
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 24,
+				"y": 15,
+				"w": 403,
+				"h": 150
+			},
+			"sourceSize": {
+				"w": 447,
+				"h": 196
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "panel_BtnPlayAgain",
+			"frame": {
+				"x": 406,
+				"y": 3040,
+				"w": 403,
+				"h": 150
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 12,
+				"y": 9,
+				"w": 403,
+				"h": 150
+			},
+			"sourceSize": {
+				"w": 423,
+				"h": 168
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "panel_gameOverFrame",
+			"frame": {
+				"x": 811,
+				"y": 3040,
+				"w": 850,
+				"h": 818
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 124,
+				"y": 83,
+				"w": 850,
+				"h": 818
+			},
+			"sourceSize": {
+				"w": 1080,
+				"h": 1320
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "texture_gameplay_1.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 2048,
+			"h": 4096
+		},
+		"scale": "1",
+		"related_multi_packs": [
+			"texture_gameplay_0.json",
+			"texture_gameplay_2.json",
+			"texture_gameplay_3.json"
+		],
+		"smartupdate": "$TexturePacker:SmartUpdate:7ac18abd88d4f5a3651272ea6ae949b3:931ab3254af7ca9a19461156064517da:7f37907198997bd9396f1cacf70d9bad$"
+	}
+}

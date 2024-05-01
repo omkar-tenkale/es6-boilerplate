@@ -1,16 +1,118 @@
 <!DOCTYPE html>
 <html>
-  <head>
+<head>
+    <title>Rappel</title>
     <meta charset="utf-8"/>
-    <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="stylesheet" type="text/css" media="screen" href="index.css">
+    <meta id="viewport" name="viewport"
+          content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <title>melonJS Vite boilerplate</title>
-  </head>
-  <body>
-      <!-- Canvas placeholder -->
-      <div id="screen"></div>
-      <script type="module" src="src/index.js"></script>
-  </body>
+    <meta name="full-screen" content="yes"/>
+    <meta name="screen-orientation" content="landscape"/>
+    <link rel="apple-touch-icon" href="icons/touch-icon-iphone-60x60.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="icons/touch-icon-ipad-76x76.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="icons/touch-icon-iphone-retina-120x120.png">
+    <link rel="apple-touch-icon" sizes="152x152">
+</head>
+<body>
+<!-- Canvas placeholder -->
+<div id="screen">
+    <img id="loading-game-logo" src="./data/logo.png" style="display: none;">
+</div>
+
+<!-- melonJS Library -->
+<script type="text/javascript" src="lib/melonjs.js"></script>
+
+
+<!-- Plugin(s) -->
+<script type="text/javascript" src="js/game.js"></script>
+<script type="text/javascript" src="js/resources.js"></script>
+<script type="text/javascript" src="js/script/const.js"></script>
+<script type="text/javascript" src="js/script/game.js"></script>
+<script type="text/javascript" src="js/screens/gameplayLevel.js"></script>
+<script type="text/javascript" src="js/screens/loadDataLevel.js"></script>
+<script type="text/javascript" src="js/screens/menuLevel.js"></script>
+<script type="text/javascript" src="js/screens/temp.js"></script>
+<script type="text/javascript" src="js/object/Coin.js"></script>
+<script type="text/javascript" src="js/object/CoinSpawner.js"></script>
+<script type="text/javascript" src="js/object/gamePlayAwan.js"></script>
+<script type="text/javascript" src="js/object/gameplayBackground.js"></script>
+<script type="text/javascript" src="js/object/gameplayContainer.js"></script>
+<script type="text/javascript" src="js/object/gameplayController.js"></script>
+<script type="text/javascript" src="js/object/gameplayPanelBtnContinue.js"></script>
+<script type="text/javascript" src="js/object/gameplayPanelBtnPlayAgain.js"></script>
+<script type="text/javascript" src="js/object/gameplayPanelFrame.js"></script>
+<script type="text/javascript" src="js/object/gameplayPanelOverlay.js"></script>
+<script type="text/javascript" src="js/object/gameplayPauseBtn.js"></script>
+<script type="text/javascript" src="js/object/gameplayPauseExit.js"></script>
+<script type="text/javascript" src="js/object/gameplayPauseOverlay.js"></script>
+<script type="text/javascript" src="js/object/gamePlayPauseRestart.js"></script>
+<script type="text/javascript" src="js/object/gameplayScoreUI.js"></script>
+<script type="text/javascript" src="js/object/gamePlayTutorial.js"></script>
+<script type="text/javascript" src="js/object/gameplayUIpause.js"></script>
+<script type="text/javascript" src="js/object/HealingPatch.js"></script>
+<script type="text/javascript" src="js/object/panelAdsError.js"></script>
+<script type="text/javascript" src="js/object/Player.js"></script>
+<script type="text/javascript" src="js/object/Unicorn.js"></script>
+<script type="text/javascript" src="js/object/menuAnimate.js"></script>
+<script type="text/javascript" src="js/object/menuBtnPlay.js"></script>
+<script type="text/javascript" src="js/object/menuContainer.js"></script>
+<script type="text/javascript" src="js/object/menuSprite.js"></script>
+<script type="text/javascript" src="js/object/blackBird.js"></script>
+<script type="text/javascript" src="js/object/brownBird.js"></script>
+<script type="text/javascript" src="js/object/Kite.js"></script>
+<script type="text/javascript" src="js/object/ObstacleSpawner.js"></script>
+<script type="text/javascript" src="js/object/Toucan.js"></script>
+<script type="text/javascript" src="js/object/blok.js"></script>
+<script type="text/javascript" src="js/object/blokGameplay.js"></script>
+<script type="text/javascript" src="js/object/Collider.js"></script>
+<script type="text/javascript" src="js/object/Landing.js"></script>
+<script type="text/javascript" src="js/object/LandingTarget.js"></script>
+<script type="text/javascript" src="js/object/testCol.js"></script>
+<script type="text/javascript" src="js/script/DataControler.js"></script>
+<script type="text/javascript" src="js/script/baseDatabase.js"></script>
+<script type="text/javascript" src="js/script/testDatabase.js"></script>
+<script type="text/javascript" src="js/script/data.js"></script>
+<script type="text/javascript" src="js/script/fontBase.js"></script>
+<script type="text/javascript" src="js/script/util.js"></script>
+
+<script type="text/javascript">
+    var adsOnceRun = true;
+    function init() {
+        console.log("Init SDK");
+    }
+
+    function adShowReward(onReadyFunc, onSuccessFunc, onFailFunc){
+        window[window.preroll.config.loaderObjectName].registerRewardCallbacks({
+            onReady:onReadyFunc,
+            onSuccess:onSuccessFunc,
+            onFail:onFailFunc
+        });
+    }
+
+    function rewardReady(){
+        if(adsOnceRun){
+            adsOnceRun = false;
+            console.log("show Ads");
+            window[window.preroll.config.loaderObjectName].showRewardAd();
+        }
+    }
+
+    function rewardSuccess(callback){
+        callback();
+    }
+
+    function rewardFail(callback){
+        callback();
+    }
+
+    me.device.onReady(function onReady() {
+        game.onload();
+    });
+</script>
+
+<!--<script type="module" src="src/index.js"></script>-->
+</body>
 </html>
