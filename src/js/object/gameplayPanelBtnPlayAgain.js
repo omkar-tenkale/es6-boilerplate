@@ -39,32 +39,20 @@ game.object.gameplayPanelBtnPlayAgain = me.GUI_Object.extend({
 
 	update: function(dt){
 		var drawNextFrame = this._super(me.GUI_Object, 'update', [dt]);
-        // Put user code here //
-
-        //  End of user code  //
 		return drawNextFrame;
 	},
 
 	draw : function(renderer, rect) {
 		this._super(me.GUI_Object, 'draw', [renderer, rect]);
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
 	onActivateEvent : function() {
 		this._super(me.GUI_Object, 'onActivateEvent');
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
 	onDeactivateEvent : function() {
 		this._super(me.GUI_Object, 'onDeactivateEvent');
 
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
     // Put user code here //

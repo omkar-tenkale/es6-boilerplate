@@ -49,9 +49,6 @@ game.object.Kite = me.Sprite.extend({
 
 		this.var = {};
 
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
 	update: function(dt){
@@ -99,22 +96,13 @@ game.object.Kite = me.Sprite.extend({
 
 	draw : function(renderer, rect) {
 		this._super(me.Sprite, 'draw', [renderer, rect]);
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
 	onActivateEvent : function() {
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
 	onDeactivateEvent : function() {
 
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
     // Put user code here //

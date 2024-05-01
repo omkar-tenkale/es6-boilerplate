@@ -387,9 +387,6 @@ var game = {
 			}
 		});
 
-        // Put user code here //
-
-        //  End of user code  //
 		me.pool.register('spriteTP', game.object.__spriteTP);
 		me.pool.register('collisionTP', game.object.__collisionTP);
 		me.state.change("loadDataLevel");

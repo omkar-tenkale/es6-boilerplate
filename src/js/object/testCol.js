@@ -13,9 +13,6 @@ game.object.testCol = me.Renderable.extend({
 		};
 
 
-        // Put user code here //
-
-        //  End of user code  //
 
 		x += me.game.viewport.width*0.5;
 		y += me.game.viewport.height*0.5;
@@ -50,9 +47,6 @@ game.object.testCol = me.Renderable.extend({
 		this.body.update();
 		me.collision.check(this);
 		drawNextFrame = drawNextFrame || this.body.vel.x !== 0 || this.body.vel.y !== 0;
-        // Put user code here //
-
-        //  End of user code  //
 		return drawNextFrame;
 	},
 
@@ -75,16 +69,10 @@ game.object.testCol = me.Renderable.extend({
 	},
 
 	onActivateEvent : function() {
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
 	onDeactivateEvent : function() {
 
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
     // Put user code here //

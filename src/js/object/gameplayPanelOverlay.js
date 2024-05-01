@@ -17,9 +17,6 @@ game.object.gameplayPanelOverlay = me.Sprite.extend({
 			y: 0.5
 		};
 
-        // Put user code here //
-
-        //  End of user code  //
 
 		x += me.game.viewport.width*0.5;
 		y += me.game.viewport.height*0.5;
@@ -34,38 +31,23 @@ game.object.gameplayPanelOverlay = me.Sprite.extend({
 		this._pointerDownHandler = me.input.registerPointerEvent("pointerdown", this, this.onClick.bind(this));
 		this.var = {};
 
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
 	update: function(dt){
 		var drawNextFrame = this._super(me.Sprite, 'update', [dt]);
-        // Put user code here //
-
-        //  End of user code  //
 		return drawNextFrame;
 	},
 
 	draw : function(renderer, rect) {
 		this._super(me.Sprite, 'draw', [renderer, rect]);
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
 	onActivateEvent : function() {
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
 	onDeactivateEvent : function() {
 
 		me.input.releasePointerEvent("pointerdown", this, this._pointerDownHandler);
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
 	onClick : function(pointer) {

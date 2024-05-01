@@ -17,9 +17,6 @@ game.object.gameplayBackground = me.Sprite.extend({
 			y: 0.5
 		};
 
-        // Put user code here //
-
-        //  End of user code  //
 
 		x += me.game.viewport.width*0.5;
 		y += me.game.viewport.height*0.5;
@@ -70,22 +67,13 @@ game.object.gameplayBackground = me.Sprite.extend({
 
 	draw : function(renderer, rect) {
 		this._super(me.Sprite, 'draw', [renderer, rect]);
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
 	onActivateEvent : function() {
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
 	onDeactivateEvent : function() {
 
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
     // Put user code here //

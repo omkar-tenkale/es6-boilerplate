@@ -12,9 +12,6 @@ game.object.menuContainer = me.Container.extend({
 			y: 0.5
 		};
 
-        // Put user code here //
-
-        //  End of user code  //
 
 		this._super(me.Container, 'init', [x, y, settings.width, settings.height]);
 
@@ -46,24 +43,15 @@ game.object.menuContainer = me.Container.extend({
 
 	update: function(dt){
 		var drawNextFrame = this._super(me.Container, 'update', [dt]);
-        // Put user code here //
-
-        //  End of user code  //
 		return drawNextFrame;
 	},
 
 	draw : function(renderer, rect) {
 		this._super(me.Container, 'draw', [renderer, rect]);
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
 	onActivateEvent : function() {
 		this._super(me.Container, 'onActivateEvent');
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
 	onDeactivateEvent : function() {

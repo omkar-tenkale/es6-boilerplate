@@ -95,9 +95,6 @@ game.object.Player = me.Sprite.extend({
 		this.body.update();
 		me.collision.check(this);
 		drawNextFrame = drawNextFrame || this.body.vel.x !== 0 || this.body.vel.y !== 0;
-        // Put user code here //
-
-        //  End of user code  //
 		return drawNextFrame;
 	},
 
@@ -111,15 +108,9 @@ game.object.Player = me.Sprite.extend({
 
 	draw : function(renderer, rect) {
 		this._super(me.Sprite, 'draw', [renderer, rect]);
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
 	onActivateEvent : function() {
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
 	onDeactivateEvent : function() {

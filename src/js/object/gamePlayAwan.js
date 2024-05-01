@@ -46,9 +46,6 @@ game.object.gamePlayAwan = me.Sprite.extend({
 
 		this.var = {};
 
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
 	update: function(dt){
@@ -84,30 +81,18 @@ game.object.gamePlayAwan = me.Sprite.extend({
 
 	onCollision : function(response, other) {
 		var isSolid = true;
-        // Put user code here //
-
-        //  End of user code  //
 		return isSolid;
 	},
 
 	draw : function(renderer, rect) {
 		this._super(me.Sprite, 'draw', [renderer, rect]);
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
 	onActivateEvent : function() {
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
 	onDeactivateEvent : function() {
 
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
     // Put user code here //

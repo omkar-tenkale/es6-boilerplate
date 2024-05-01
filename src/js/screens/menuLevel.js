@@ -5,9 +5,6 @@
 
 game.level.menuLevel = me.Stage.extend({
 	onResetEvent: function() {
-        // Put user code here //
-
-        //  End of user code  //
 		me.levelDirector.loadLevel("menuLevel");
 		this.var = {};
         // Put user code here //

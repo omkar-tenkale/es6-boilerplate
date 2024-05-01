@@ -12,9 +12,6 @@ game.object.CoinSpawner = me.Container.extend({
 			y: 0.5
 		};
 
-        // Put user code here //
-
-        //  End of user code  //
 
 		x += me.game.viewport.width*0.5;
 		y += me.game.viewport.height*0.5;
@@ -59,32 +56,20 @@ game.object.CoinSpawner = me.Container.extend({
 
 	update: function(dt){
 		var drawNextFrame = this._super(me.Container, 'update', [dt]);
-        // Put user code here //
-
-        //  End of user code  //
 		return drawNextFrame;
 	},
 
 	draw : function(renderer, rect) {
 		this._super(me.Container, 'draw', [renderer, rect]);
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
 	onActivateEvent : function() {
 		this._super(me.Container, 'onActivateEvent');
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
 	onDeactivateEvent : function() {
 		this._super(me.Container, 'onDeactivateEvent');
 
-        // Put user code here //
-
-        //  End of user code  //
 	},
 
     // Put user code here //
