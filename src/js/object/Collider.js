@@ -1,7 +1,4 @@
 (function(){
-// Put user code here //
-
-//  End of user code  //
 
 game.object.Collider = me.Renderable.extend({
 	init: function(x, y, settings = {}){
@@ -81,12 +78,6 @@ game.object.Collider = me.Renderable.extend({
 
 	},
 
-    // Put user code here //
-
-    //  End of user code  //
 });
 
-// Put user code here //
-
-//  End of user code  //
 })();

@@ -1,7 +1,4 @@
 (function(){
-// Put user code here //
-
-//  End of user code  //
 
 game.object.Coin = me.Sprite.extend({
 	init: function(x, y, settings = {}){
@@ -102,12 +99,6 @@ game.object.Coin = me.Sprite.extend({
 
 	},
 
-    // Put user code here //
-
-    //  End of user code  //
 });
 
-// Put user code here //
-
-//  End of user code  //
 })();

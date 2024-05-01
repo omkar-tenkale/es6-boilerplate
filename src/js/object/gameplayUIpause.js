@@ -1,7 +1,4 @@
 (function(){
-// Put user code here //
-
-//  End of user code  //
 
 game.object.gameplayUIpause = me.Sprite.extend({
 	init: function(x, y, settings = {}){
@@ -68,12 +65,6 @@ game.object.gameplayUIpause = me.Sprite.extend({
         //  End of user code  //
 	},
 
-    // Put user code here //
-
-    //  End of user code  //
 });
 
-// Put user code here //
-
-//  End of user code  //
 })();

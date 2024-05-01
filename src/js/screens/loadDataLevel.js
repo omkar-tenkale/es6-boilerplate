@@ -1,7 +1,4 @@
 (function(){
-// Put user code here //
-
-//  End of user code  //
 
 game.level.loadDataLevel = me.Stage.extend({
 	onResetEvent: function() {
@@ -26,12 +23,6 @@ game.level.loadDataLevel = me.Stage.extend({
 	onDestroyEvent: function() {
 	},
 
-    // Put user code here //
-
-    //  End of user code  //
 });
 
-// Put user code here //
-
-//  End of user code  //
 })();

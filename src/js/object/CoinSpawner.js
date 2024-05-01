@@ -1,7 +1,4 @@
 (function(){
-// Put user code here //
-
-//  End of user code  //
 
 game.object.CoinSpawner = me.Container.extend({
 	init: function(x, y, settings = {}){
@@ -94,7 +91,4 @@ game.object.CoinSpawner = me.Container.extend({
     //  End of user code  //
 });
 
-// Put user code here //
-
-//  End of user code  //
 })();

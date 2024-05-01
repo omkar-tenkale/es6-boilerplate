@@ -1,7 +1,4 @@
 (function(){
-// Put user code here //
-
-//  End of user code  //
 
 game.object.gamePlayPauseRestart = me.GUI_Object.extend({
 	init: function(x, y, settings = {}){
@@ -88,7 +85,4 @@ game.object.gamePlayPauseRestart = me.GUI_Object.extend({
     //  End of user code  //
 });
 
-// Put user code here //
-
-//  End of user code  //
 })();

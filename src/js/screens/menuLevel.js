@@ -1,7 +1,4 @@
 (function(){
-// Put user code here //
-
-//  End of user code  //
 
 game.level.menuLevel = me.Stage.extend({
 	onResetEvent: function() {
@@ -33,12 +30,6 @@ game.level.menuLevel = me.Stage.extend({
         //  End of user code  //
 	},
 
-    // Put user code here //
-
-    //  End of user code  //
 });
 
-// Put user code here //
-
-//  End of user code  //
 })();

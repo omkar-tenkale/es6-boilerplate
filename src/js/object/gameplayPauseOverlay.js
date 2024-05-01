@@ -1,7 +1,4 @@
 (function(){
-// Put user code here //
-
-//  End of user code  //
 
 game.object.gameplayPauseOverlay = me.Sprite.extend({
 	init: function(x, y, settings = {}){
@@ -56,12 +53,6 @@ game.object.gameplayPauseOverlay = me.Sprite.extend({
         //  End of user code  //
 	},
 
-    // Put user code here //
-
-    //  End of user code  //
 });
 
-// Put user code here //
-
-//  End of user code  //
 })();
